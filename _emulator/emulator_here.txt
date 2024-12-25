@@ -1,0 +1,3 @@
+put your emulator in here!
+
+the run scripts are configured to use flycast, but can be easily adapted to redream, or whatever other emulator you choose

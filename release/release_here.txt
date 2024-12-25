@@ -1,0 +1,4 @@
+Build output from the docker container will show up here.
+
+The "Dreamcast/" folder shows intermediary build artifacts before being written to a cdi file
+"ANTIRUINS.cdi" is the emulator disc image generate from a successful build.  

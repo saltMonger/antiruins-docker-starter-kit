@@ -1,0 +1,9 @@
+services:
+    game:
+        build:
+            context: ./
+            dockerfile: Dockerfile
+        volumes:
+            - ./src:/data/game/game_example
+            - ./release:/data/game/release
+            - ./config.lua:/data/game/config.lua
